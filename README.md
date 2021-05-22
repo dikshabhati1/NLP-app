@@ -12,7 +12,27 @@ This Natural Language Processing App is included in the weekly Roundup on the st
 
 ![](streamlit-images/weekly-forum.jpeg)
 
+<br>
+
 ![](streamlit-images/weekly-website.jpeg)
 
 # Demo
 Here is the link to the web app you can check it out : https://share.streamlit.io/dikshabhati1/pandas-profiling-app/main/app.py <br>
+
+![](streamlit-images/Streamlit1.JPG)
+
+<br>
+
+![](streamlit-images/streamlit2.JPG)
+
+<br>
+
+![](streamlit-images/streamlit3.JPG)
+
+<br>
+
+![](streamlit-images/streamlit4.JPG)
+
+<br>
+
+![](streamlit-images/streamlit5.JPG)
