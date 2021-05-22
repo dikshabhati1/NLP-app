@@ -1,6 +1,6 @@
 # Overview
 This is a Natural Learning Processing Streamlit App which I have made in google colab that too without signing into ngrok.It is a basic
-app which do multiple nlp task.Following is covered in NLP streamlit app:
+app which do multiple nlp task.I have used built in functions of Spacy, Textblob and Genism.Following is covered in NLP streamlit app:
 - Tokenization and Lemmatization
 - Text Summarization
 - Named Entities
@@ -36,3 +36,6 @@ Here is the link to the web app you can check it out : https://share.streamlit.i
 <br>
 
 ![](streamlit-images/streamlit5.JPG)
+
+# Note
+**In this app one function will work at one time.You have to untick the box then click on another box for the working function**
