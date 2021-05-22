@@ -8,7 +8,7 @@ app which do multiple nlp task.Following is covered in NLP streamlit app:
 - Sentiment Analysis
 
 # Weekly Forum
-This is included in the weekly Roundup on the streamlit community form <br>
+This Natural Language Processing App is included in the weekly Roundup on the streamlit community form <br>
 
 ![](streamlit-images/weekly-forum.jpeg)
 
