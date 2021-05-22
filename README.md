@@ -9,6 +9,6 @@ app which do multiple nlp task.Following is covered in NLP streamlit app:
 
 # Weekly Forum
 This is included in the weekly Roundup on the streamlit community form <br>
-![](streamlit-images/weekly-forum)
+![](streamlit-images/weekly-forum.jpeg)
 
-![](streamlit-images/weekly-website)
+![](streamlit-images/weekly-website.jpeg)
